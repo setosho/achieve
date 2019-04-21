@@ -1,1 +1,1 @@
-puts("sankaku")
+puts("sikaku")
