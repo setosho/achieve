@@ -1,1 +1,1 @@
-puts("manmaru")
+puts("sikaku")
